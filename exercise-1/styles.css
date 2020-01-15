@@ -2,6 +2,11 @@ body {
   line-height: 1.8;
   margin: 0;
 }
+/* Media queries for tablet and PC*/
+@media screen and (max-width: 600px)
+  
+@media screen and (max-width: 900px)
+  
 
 /* Constants */
 
