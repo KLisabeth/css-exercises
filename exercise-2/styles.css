@@ -4,6 +4,40 @@ body {
   margin: 0;
 }
 
-* {
-  box-sizing: border-box;
+
+
+section {
+    box-sizing: border-box;
+    width: 450px;
+    overflow: hidden;
+     
 }
+  #cards {
+    margin: auto;
+    overflow: hidden;
+    margin-top: 10px;
+    margin buttom:10;
+  }
+ .card {
+    height: 175px;
+    padding:40px 10px 30px 10px;
+    background: #3f3f3f;
+    color: #ffffff;
+    margin: 20px 0px 20px 0px;
+   border: 20px 10px 10px 10px ;
+    
+  }
+#cards .card {
+      float: none;
+      text-align: right;
+     
+    }
+
+button {
+     float:right;
+     margin: 0px 10px 10px 15px;
+     
+    
+ }
+
+
